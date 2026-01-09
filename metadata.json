@@ -1,0 +1,5 @@
+{
+  "name": "HealAI Monitor",
+  "description": "An AI-assisted health monitoring system for patients and doctors, providing daily tracking and clinical diagnosis support with responsible AI integration.",
+  "requestFramePermissions": []
+}
